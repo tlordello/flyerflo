@@ -8,7 +8,8 @@ FlyerFlo Job Application Mini-Project
 
 If for example, the path to the python interpreter is "C:\Python33\python.exe", and the script's path is "C:\flyerflo\FlyerFlo\FlyerFlo\FlyerFlo.py", then the command would be:
 
-C:\Python33\python.exe C:\flyerflo\FlyerFlo\FlyerFlo\FlyerFlo.py
-Subreddit URL: http://flyerflo.us4.list-manage.com/track/click?u=3cfaa07738f14f5822fcc51fb&id=4d7da39746&e=2d08973f01
-File path: T:/alienimg.png
-Successfully retrieved image
+>&gt;C:\Python33\python.exe C:\flyerflo\FlyerFlo\FlyerFlo\FlyerFlo.py  
+Subreddit URL: http://flyerflo.us4.list-manage.com/track/click?u=3cfaa07738f14f5822fcc51fb&id=4d7da39746&e=2d08973f01   
+File path: T:/alienimg.png  
+Successfully retrieved image  
+  
