@@ -5,7 +5,7 @@
 # Usage: Simply input the URL of the subreddit whose alien header image you wish to download; then, specify the path of the file.
 #
 
-import sys
+import sys #Used to exit program in case error occurs
 import urllib.request #library needed for http request
 import html.parser #library used for parsing HTML
 import urllib.error #Used to detect potential HTTP errors
