@@ -4,7 +4,7 @@ flyerflo
 FlyerFlo Job Application Mini-Project
 
   This script is designed to find and retrieve the alien header image from a given subreddit URL. The script will prompt the user for a subreddit URL and a path for the image file. It will then download the image from that subreddit to the specified path.
-  To run the script, you will need python 3 (I used 3.3.1 to create the script so I recommend that one). Open the command prompt, and type the following message "<python.exe path> <script.py file>".
+  To run the script, you will need python 3 (I used 3.3.1 to create the script so I recommend that one). Open the command prompt, and type the following message "'python.exe path' 'script.py file'".
 
 If for example, the path to the python interpreter is "C:\Python33\python.exe", and the script's path is "C:\flyerflo\FlyerFlo\FlyerFlo\FlyerFlo.py", then the command would be:
 
