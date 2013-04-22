@@ -8,9 +8,8 @@ FlyerFlo Job Application Mini-Project
 
 Let's say, for example, that the path to the python interpreter is "C:\Python33\python.exe", the script's path is "C:\flyerflo\FlyerFlo\FlyerFlo\FlyerFlo.py", and you want to download the image from the uwaterloo subreddit to the destination T:/alienimg.png. Then the command would be: (note in lines 2 and 3 the script asks for your input)
 
->&gt;C:\Python33\python.exe C:\flyerflo\FlyerFlo\FlyerFlo\FlyerFlo.py 
-
-Subreddit URL: http://flyerflo.us4.list-manage.com/track/click?u=3cfaa07738f14f5822fcc51fb&id=4d7da39746&e=2d08973f01   
-File path: T:/alienimg.png  
-Successfully retrieved image  
+>&gt;C:\Python33\python.exe C:\flyerflo\FlyerFlo\FlyerFlo\FlyerFlo.py   
+>Subreddit URL: http://flyerflo.us4.list-manage.com/track/click?u=3cfaa07738f14f5822fcc51fb&id=4d7da39746&e=2d08973f01   
+>File path: T:/alienimg.png  
+>Successfully retrieved image  
   
